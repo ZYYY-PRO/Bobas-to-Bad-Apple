@@ -5,4 +5,7 @@ body {
     font-size: larger;
     text-align: center;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: aliceblue;
+    background-color: rgba(16, 17, 34, 0.914);
 }
+
