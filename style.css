@@ -1,11 +1,24 @@
 img {
     size: 100px;
+    border-radius: 5%;
 }
 body {
     font-size: larger;
     text-align: center;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color: aliceblue;
-    background-color: rgba(16, 17, 34, 0.914);
+    color: rgb(223, 240, 255);
+    transition: color 2 ease-in-out;
+    background-color: rgba(9, 9, 19, 0.914);
+}
+body:hover {
+    color: aquamarine;
+}
+p {
+    border: 10cm;
+    border-color: aliceblue;
+    border-radius: 10cm;
+}
+p:hover {
+    color: aqua;
 }
 
