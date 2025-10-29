@@ -22,3 +22,6 @@ p:hover {
     color: aqua;
 }
 
+video {
+    border-radius: 5%;
+}
