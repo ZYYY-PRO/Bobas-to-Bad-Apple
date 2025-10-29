@@ -2,6 +2,11 @@ img {
     size: 100px;
     border-radius: 5%;
 }
+p {
+    size: 5%;
+}
+
+
 body {
     font-size: larger;
     text-align: center;
