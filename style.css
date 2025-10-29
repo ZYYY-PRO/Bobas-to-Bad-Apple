@@ -2,6 +2,10 @@ img {
     size: 100px;
     border-radius: 5%;
 }
+
+.giif {
+    color:aliceblue;
+}
 body {
     font-size: larger;
     text-align: center;
