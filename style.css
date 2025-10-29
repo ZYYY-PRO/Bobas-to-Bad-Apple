@@ -11,14 +11,17 @@ body {
     background-color: rgba(9, 9, 19, 0.914);
 }
 body:hover {
-    color: aquamarine;
+    color: rgb(207, 255, 239);
 }
-p {
+a:link{
     border: 10cm;
-    border-color: aliceblue;
-    border-radius: 10cm;
+    color: aliceblue;
+    border-color: rgb(232, 244, 255);
+    padding: 0.5%;
+    border-radius: 20%;
+    background-color: rgb(17, 66, 109);
 }
-p:hover {
+a:hover {
     color: aqua;
 }
 
